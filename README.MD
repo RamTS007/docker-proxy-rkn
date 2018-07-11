@@ -8,7 +8,7 @@ docker run -p 8012:80 zvinger/docker-proxy-rkn
 
 Вместо 8012 вы можете указать любой удобный вам порт. Тогда в коде вашего приложения вместо
 
-`https://api.telegram.org/bot`
+`https://api.telegram.org/`
 
 Вы указываете
 `http://<<АДРЕС_ВАШЕГО_СЕРВЕРА>>:выбранный порт/`
